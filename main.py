@@ -16,3 +16,9 @@ n2 = int(input('ingrese un número: '))
 division = n1/n2 
 
 print (division)
+
+n1 = int(input('ingrese un número: '))
+n2 = int(input('ingrese un número: '))
+multiplicacion = n1*n2 
+
+print (multiplicacion)
